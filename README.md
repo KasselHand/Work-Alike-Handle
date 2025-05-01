@@ -1,14 +1,14 @@
     Kassel Hand Project Work-Alike-Handle Model README
     
-    This model of the Kassel Hand is a sturdier version of the Lookalike model with
-    a handle attached so someone without limb loss or limb difference on their 
-    right side can interact with the model. Happy printing!
+    This model of the Kassel Hand is a sturdier version of the Lookalike model, like the 
+    Work-Alike model, but also has a handle addition for people without limb loss or limb 
+    difference on their right sides can interact with the model. If you have questions about 
+    this repository's purpose or are unsure of how to start the printing process, head back 
+    to this model's webpage and check out the section titled, "New to Printing?" Happy printing!
     
     1.) Print Settings
 
-        a.) link to GCode
-
-        b.) General Print Settings
+        a.) General Print Settings
             i.) We used an Anycubic Kobra 3 with the Anycubic Slicer.
            ii.) 2 Vertical Shells, 4 Horizontal Shells with a minimum thickness of 
                 of 0.6mm
@@ -51,5 +51,3 @@
         c.) The name of the part is the colloquial term for the part--it's easier 
             to identify if you need a new ring finger than a replacement, "M-03."
         d.) #X is how many copies are needed.
-
-    3.) Helpful Links
